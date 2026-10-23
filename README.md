@@ -15,8 +15,41 @@
   </p>
 </div>
 
-<!-- 添加动态波浪分隔符 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<!-- 动态分隔符 - 使用更现代的设计 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+
+
+<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  精选项目
+</h2>
+
+<div align="center">
+  <a href="https://github.com/YulieRain/AiCodingHelper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YulieRain&repo=AiCodingHelper&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/YulieRain/Langchain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YulieRain&repo=Langchain&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+</div>
+
+<!-- 添加项目按钮 -->
+<div align="center">
+  <a href="https://github.com/YulieRain?tab=repositories">
+    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+  </a>
+</div>
+
+
+<!-- 动态分隔符 - 使用更现代的设计 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
 
 <!-- <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
@@ -61,6 +94,8 @@
 </tr>
 </table> -->
 
+
+
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
@@ -81,28 +116,6 @@
 </div>
 
 
-
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
-</h2>
-
-<div align="center">
-  <a href="https://github.com/YulieRain/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YulieRain&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/YulieRain/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YulieRain&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<!-- 添加项目按钮 -->
-<div align="center">
-  <a href="https://github.com/YulieRain?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
 
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
