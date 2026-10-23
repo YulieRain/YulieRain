@@ -1,21 +1,7 @@
-<!--
-**yulieai/yulieai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   
-  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yulie_Rain&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
+  <!-- 增强标题横幅 - 使用更动感的渐变色
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yulie_Rain&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" /> -->
 
 # 👋 Hello，here is Yulie
 
@@ -32,11 +18,11 @@ Here are some ideas to get you started:
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   关于我
-</h2>
-
+</h2> -->
+<!-- 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="34%" valign="top">
@@ -73,7 +59,7 @@ Here are some ideas to get you started:
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
